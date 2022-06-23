@@ -16,7 +16,6 @@
 
 - Bootstrap
 
-- React
 
 <br>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -37,6 +36,3 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivaeiro&" alt="ivaeiro" /></p>
-
-<br>
-
