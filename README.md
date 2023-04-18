@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy 👋 Ivaeiro</h1>
-<h3 align="center">Soy un desarrollador en desarrollo 🤶</h3>
+<h3 align="center">Soy un desarrollador en desarrollo</h3>
 
 --- 
 
