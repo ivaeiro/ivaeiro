@@ -3,6 +3,7 @@
 
 <ul>
   <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">👨‍🎓</g-emoji> Técnico en Sistemas Microinformáticos y Redes</li>
+  <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">👨‍🎓</g-emoji> Técnico en Administrador en sistemas informáticos en red</li>
 </ul>
 
 <h3>Sistemas Operativos:</h3>
